@@ -1,0 +1,30 @@
+{
+    "version": "3.0.0",
+    "GameAutomation": {
+        "url": "https://gitcode.com/aicnns/GameAutomation/releases/download/v2.0.0/GameAutomation.enc",
+        "sha256": "F43BB5E6BC21AED28D1021AE3A8EC82D9128A676FB4A833FC6861E69B7B6018B",
+        "size": 49753088
+    },
+    "cpu": {
+        "url": "https://gitcode.com/aicnns/cuda12/releases/download/CPU_V1.0.0/CPU.zip",
+        "sha256": "7CD3823799706E6A04165FF6757F15069037C09CF20C4A3D6C579508B26650CC",
+        "size": 77775220
+    },
+    "gpu": {
+        "zip": {
+            "url": "https://gitcode.com/aicnns/cuda12/releases/download/GPU_cuda12_cuDDN9_V1.0.0/GPU.zip",
+            "sha256": "A0808E04BA3B3583153D40252B46714857028DD0B22BDD75E412F6A460D13536",
+            "size": 825676625
+        },
+        "z01": {
+            "url": "https://gitcode.com/aicnns/cuda12/releases/download/GPU_cuda12_cuDDN9_V1.0.0/GPU.z01",
+            "sha256": "DB34F3CBC518943A404FA03ED9D3E6126AF72DD3F72E4E9E29364D5054E5B256",
+            "size": 943718400
+        },
+        "z02": {
+            "url": "https://gitcode.com/aicnns/cuda12/releases/download/GPU_cuda12_cuDDN9_V1.0.0/GPU.z02",
+            "sha256": "3E2125E276E48B888922F75519F9E3A97E1175BC98757CC09921BAB1C8EC529B",
+            "size": 943718400
+        }
+    }
+}
