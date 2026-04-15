@@ -1,9 +1,10 @@
 {
     "version": "3.0.0",
     "GameAutomation": {
-        "url": "https://gitcode.com/aicnns/GameAutomation/releases/download/v2.0.0/GameAutomation.enc",
-        "sha256": "F43BB5E6BC21AED28D1021AE3A8EC82D9128A676FB4A833FC6861E69B7B6018B",
-        "size": 49753088
+    "url": "https://gitcode.com/aicnns/GameAutomation/releases/download/v3.0.0/GameAutomation.enc",
+    "sha256": "7C03F2792CD7AB753C164D14C13114616E1F834E6556BEE038BA654747B3BA5F",
+    "md5": "8D02524C06604029C868226550942A7D",
+    "size": 49753136
     },
     "cpu": {
         "url": "https://gitcode.com/aicnns/cuda12/releases/download/CPU_V1.0.0/CPU.zip",
